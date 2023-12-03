@@ -1,9 +1,14 @@
 <template>
-    <p>Simple Text</p>
+    <h1>Welcome to Ram IT</h1>
 </template>
 
 <script>
+import PageViewer from './components/PageViewer.vue';
+
 export default {
+    components: {
+        PageViewer
+    },
     data() {
         return {
             activePage: 0,
