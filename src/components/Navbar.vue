@@ -15,13 +15,7 @@
                         @click.prevent="navLinkClick(index)"
                     >{{ page.link.text }}</a>    
                 </li>
-            </ul>
-            <form class="d-flex">
-                <button
-                    class="btn btn-primary"
-                    @click.prevent="changeTheme()"
-                >Toggle</button>
-            </form>
+            </ul>            
         </div>
     </nav>
 </template>
@@ -31,19 +25,8 @@ export default {
     props: ['pages', 'activePage', 'navLinkClick'],
     data() {
         return {
-            theme: 'light',
+            theme: 'dark',
         }
     },
-    methods: {
-        changeTheme() {
-            let theme = 'light';
-
-            if(this.theme == 'light') {
-                theme = 'dark';
-            }
-
-            this.theme = theme;
-        }
-    }
 }
 </script>
