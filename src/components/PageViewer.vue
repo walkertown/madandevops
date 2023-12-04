@@ -4,7 +4,7 @@
         <p>{{ page.content }}</p>
     </div> -->
 
-    <div class="container-fluid mt-3">
+    <div class="container-fluid">
         <div class="row">
             <div class="col p-6 bg-primary text-white">
                 <span class="badge rounded-pill bg-primary" style="font-size: larger;">RAM IT <br /> DevOps
