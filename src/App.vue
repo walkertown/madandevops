@@ -14,7 +14,6 @@
 import Navbar from './components/Navbar.vue';
 import PageViewer from './components/PageViewer.vue';
 
-
 export default {
     components: {
         Navbar,
