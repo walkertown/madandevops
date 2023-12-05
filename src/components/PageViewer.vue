@@ -95,53 +95,137 @@
 
   <div class="m-4 text-center">
     <h4 class="ms-4">DevOps Syllabus</h4>
-
+  </div>
     <div class="container d-flex mt-4 p-4">
-      <div class="card mb-3" style="max-width:540px;">
+      <div class="card mb-3" style="max-width:680px;">
       <div class="row g-0">
-        <div class="col-md-6">
+        <div class="col-md-2">
           <img src="devops.png" class="img-fluid rounded-start" alt="...">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-10">
           <div class="card-body">
             <h5 class="card-title">
               INTRODUCTION TO DEVOPS
             </h5>
             <p class="card-text">
                 <ul class="list-group list-group-flush">
-                  <li class="list-group-item">What is Devops?</li>
-                  <li class="list-group-item">Why Devops?</li>
-                  <li class="list-group-item">Devops Tools</li>
-                  <li class="list-group-item">Differences between traditional methodologies and DEVOPS-approach</li>
-                  <li class="list-group-item">Big Picture of CI/CD Devops Delivery Pipeline</li>
+                  <li class="list-group-item p-0">What is Devops?</li>
+                  <li class="list-group-item p-0">Why Devops?</li>
+                  <li class="list-group-item p-0">Devops Tools</li>
+                  <li class="list-group-item p-0">Differences between traditional methodologies and DEVOPS-approach</li>
+                  <li class="list-group-item p-0">Big Picture of CI/CD Devops Delivery Pipeline</li>
                 </ul>
             </p>            
           </div>
         </div>
       </div>
     </div>
-      <div class="card mb-3" style="max-width:540px;">
+      <div class="card mb-3" style="max-width:680px;">
         <div class="row g-0">
-          <div class="col-md-6">
+          <div class="col-md-2">
             <img src="linux.png"
               class="img-fluid rounded-start" alt="...">
           </div>
-          <div class="col-md-6">
+          <div class="col-md-10">
             <div class="card-body">
               <h5 class="card-title">OPERATING SYSTEM & LINUX BASICS</h5>
               <p class="card-text">
                 <ul class="list-group list-group-flush">
-                  <li class="list-group-item">Introduction to Operating Systems</li>
-                  <li class="list-group-item">Introduction to Virtual Machines</li>
-                  <li class="list-group-item">Linux File Systems</li>
-                  <li class="list-group-item">Introduction to Command Line Interface</li>
-                  <li class="list-group-item">Basic Linux Commands</li>
-                  <li class="list-group-item">Package Manager - Installing Software in Linux</li>
-                  <li class="list-group-item">Vim Text Editor</li>
-                  <li class="list-group-item">Users and Permissions</li>
-                  <li class="list-group-item">Shell Scripting</li>
-                  <li class="list-group-item">Environment Variables</li>
-                  <li class="list-group-item">SSH -Secure Shell</li>
+                  <li class="list-group-item p-0">Introduction to Operating Systems</li>
+                  <li class="list-group-item p-0">Introduction to Virtual Machines</li>
+                  <li class="list-group-item p-0">Linux File Systems</li>
+                  <li class="list-group-item p-0">Introduction to Command Line Interface</li>
+                  <li class="list-group-item p-0">Basic Linux Commands</li>
+                  <li class="list-group-item p-0">Package Manager - Installing Software in Linux</li>
+                  <li class="list-group-item p-0">Vim Text Editor</li>
+                  <li class="list-group-item p-0">Users and Permissions</li>
+                  <li class="list-group-item p-0">Shell Scripting</li>
+                  <li class="list-group-item p-0">Environment Variables</li>
+                  <li class="list-group-item p-0">SSH -Secure Shell</li>
+                </ul>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+
+  <div class="container d-flex mt-4 p-4">
+      <div class="card mb-3" style="max-width:680px;">
+      <div class="row g-0">
+        <div class="col-md-2">
+          <img src="git.png" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">
+              VERSION CONTROL SYSTEM - GIT
+            </h5>
+            <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">Introduction to VCS</li>
+                  <li class="list-group-item p-0">Types of VCS</li>
+                  <li class="list-group-item p-0">Difference between CVCS and DVCS</li>
+                  <li class="list-group-item p-0">What is GIT</li>
+                  <li class="list-group-item p-0">GIT Architecture</li>
+                  <li class="list-group-item p-0">GIT installation on Windows and Linux</li>
+                  <li class="list-group-item p-0">GIT commands</li>
+                  <li class="list-group-item p-0">Working with GIT</li>
+                  <li class="list-group-item p-0">Creating repository</li>
+                  <li class="list-group-item p-0">Cloning repository</li>
+                  <li class="list-group-item p-0">Committing the changes</li>
+                  <li class="list-group-item p-0">Fetch, pull and remote</li>
+                  <li class="list-group-item p-0">Branching Strategy in GIT</li>
+                  <li class="list-group-item p-0">Creating the Branches</li>
+                  <li class="list-group-item p-0">Switching the branches</li>
+                  <li class="list-group-item p-0">Merging the branches</li>
+                  <li class="list-group-item p-0">Git reset</li>
+                  <li class="list-group-item p-0">Git rebase</li>
+                  <li class="list-group-item p-0">Git stash</li>
+                  <li class="list-group-item p-0">Working with GitHub</li>
+                </ul>
+            </p>            
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="card mb-3" style="max-width:680px;">
+        <div class="row g-0">
+          <div class="col-md-2">
+            <img src="jenkinslogo.png"
+              class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-10">
+            <div class="card-body">
+              <h5 class="card-title">CONTINUOUS INTEGRATION - JENKINS</h5>
+              <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">What is Jenkins?</li>
+                  <li class="list-group-item p-0">Continuous Integration with Jenkins</li>
+                  <li class="list-group-item p-0">Java installation and configuration</li>
+                  <li class="list-group-item p-0">Exploring Jenkins Dashboard</li>
+                  <li class="list-group-item p-0">Creating jobs in Jenkins</li>
+                  <li class="list-group-item p-0">Running the Jobs</li>
+                  <li class="list-group-item p-0">Setting up the global environment variables for Jobs</li>
+                  <li class="list-group-item p-0">Adding and updating Plugins</li>
+                  <li class="list-group-item p-0">Disabling and deleting jobs</li>
+                  <li class="list-group-item p-0">Different authorization strategies in Jenkins</li>
+                  <li class="list-group-item p-0">RBAC strategy in Jenkins</li>
+                  <li class="list-group-item p-0">Best Practices for Jenkins</li>
+                  <li class="list-group-item p-0">Plugin Management in Jenkins</li>
+                  <li class="list-group-item p-0">Triggering email notifications in Jenkins</li>
+                  <li class="list-group-item p-0">Scheduling jobs automatically in Jenkins</li>
+                  <li class="list-group-item p-0">Poll SCM and web hooks in Jenkins</li>
+                  <li class="list-group-item p-0">Compile, test and deploy jobs in Jenkins</li>
+                  <li class="list-group-item p-0">Building Delivery Pipeline in Jenkins with java Maven Project</li>
+                  <li class="list-group-item p-0">Create complete pipeline in Jenkins</li>
+                  <li class="list-group-item p-0">Master Slave Architecture in Jenkins</li>
+                  <li class="list-group-item p-0">Credentials in Jenkins</li>
+                  <li class="list-group-item p-0">Adding Windows slave and run test job on windows</li>
+                  <li class="list-group-item p-0">Adding Linux slave and configuring the job on Linux ec2 instance</li>
+                  <li class="list-group-item p-0">Pipeline and Multi branch jobs in Jenkins</li>
+                  <li class="list-group-item p-0">Pipeline as code in Jenkins (Jenkins file) using groovy script</li>
+                  <li class="list-group-item p-0">Deploy to ec2-instance on AWS using Jenkins Pipeline</li>
                 </ul>
               </p>              
             </div>
@@ -149,9 +233,6 @@
         </div>
       </div>
     </div>
-  </div>
-
-  
 </template>
 
 <script>
