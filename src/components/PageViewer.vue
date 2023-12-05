@@ -100,7 +100,7 @@
       <div class="card mb-3" style="max-width:680px;">
       <div class="row g-0">
         <div class="col-md-2">
-          <img src="devops.png" class="img-fluid rounded-start" alt="...">
+          <img src="devops.png" class="img-fluid rounded-start m-2" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
@@ -123,8 +123,7 @@
       <div class="card mb-3" style="max-width:680px;">
         <div class="row g-0">
           <div class="col-md-2">
-            <img src="linux.png"
-              class="img-fluid rounded-start" alt="...">
+            <img src="linux.png" class="img-fluid rounded-start m-2" alt="...">
           </div>
           <div class="col-md-10">
             <div class="card-body">
@@ -154,7 +153,7 @@
       <div class="card mb-3" style="max-width:680px;">
       <div class="row g-0">
         <div class="col-md-2">
-          <img src="git.png" class="img-fluid rounded-start" alt="...">
+          <img src="git.png" class="img-fluid rounded-start m-2" alt="...">
         </div>
         <div class="col-md-10">
           <div class="card-body">
@@ -192,8 +191,7 @@
       <div class="card mb-3" style="max-width:680px;">
         <div class="row g-0">
           <div class="col-md-2">
-            <img src="jenkinslogo.png"
-              class="img-fluid rounded-start" alt="...">
+            <img src="jenkinslogo.png" class="img-fluid rounded-start m-2" alt="...">
           </div>
           <div class="col-md-10">
             <div class="card-body">
@@ -233,6 +231,92 @@
         </div>
       </div>
     </div>
+
+    <!---->
+    <div class="container d-flex mt-4 p-4">
+      <div class="card mb-3" style="max-width:680px;">
+        <div class="row g-0">
+          <div class="col-md-2">
+            <img src="docker.png" class="img-fluid rounded-start m-2" alt="...">
+          </div>
+          <div class="col-md-10">
+            <div class="card-body">
+              <h5 class="card-title">CONTAINERIZATION USING DOCKER</h5>
+              <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">What is container?</li>
+                  <li class="list-group-item p-0">Containerization vs Virtualization</li>
+                  <li class="list-group-item p-0">Docker Container Vs Vms</li>
+                  <li class="list-group-item p-0">Docker Images</li>
+                  <li class="list-group-item p-0">Docker Architecture</li>
+                  <li class="list-group-item p-0">Docker Installation on Linux</li>
+                  <li class="list-group-item p-0">Understanding the Docker components</li>
+                  <li class="list-group-item p-0">Working with Images</li>
+                  <li class="list-group-item p-0">Docker Containers</li>
+                  <li class="list-group-item p-0">Docker Networking</li>
+                  <li class="list-group-item p-0">Docker Files for building our own images</li>
+                  <li class="list-group-item p-0">Docker Volumes for data persistency</li>
+                  <li class="list-group-item p-0">Development and Deployment with Docker containers</li>
+                  <li class="list-group-item p-0">Building Docker image from Jenkins job</li>
+                  <li class="list-group-item p-0">Pushing own images to Docker hub</li>
+                  <li class="list-group-item p-0">Pushing own images to ECR on AWS</li>
+                  <li class="list-group-item p-0">Automating Docker image push to Docker hub/ECR on AWS from Jenkinsfile</li>
+                  <li class="list-group-item p-0">What is Docker Compose?</li>
+                  <li class="list-group-item p-0">Writing Docker Compose File</li>
+                  <li class="list-group-item p-0">Deploying Micro service app with Docker compose</li>
+                  <li class="list-group-item p-0">Configuring volumes with compose file</li>
+                  <li class="list-group-item p-0">Automate deploying from Jenkins Pipeline to EC2 Instance Using Docker run</li>
+                  <li class="list-group-item p-0">Automate deploying from Jenkins Pipeline to EC2 Instance Using Docker-Compose</li>
+                  <li class="list-group-item p-0">Container Orchestrator tool Docker Swarm</li>
+                  <li class="list-group-item p-0">High availability of app , Scaling and Load balancing on Docker Swarm Cluster</li>
+                  <li class="list-group-item p-0">Networking in Docker swarm</li>
+                  <li class="list-group-item p-0">Creating custom overlay networks in Docker swarm cluster</li>
+                  <li class="list-group-item p-0">Deploying multiple containers on swarm cluster via Docker compose</li>
+                </ul>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card mb-3" style="max-width:680px;">
+      <div class="row g-0">
+        <div class="col-md-2">
+          <img src="kuberneteslogo.png" class="img-fluid rounded-start m-2" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">
+              CONTAINER ORCHESTRATOR - KUBERNETES
+            </h5>
+            <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">Introduction to Kubernetes</li>
+                  <li class="list-group-item p-0">Kubernetes Architecture</li>
+                  <li class="list-group-item p-0">Exploring your Cluster</li>
+                  <li class="list-group-item p-0">Understanding YAML configuration in kubernetes</li>
+                  <li class="list-group-item p-0">Creating a pod object in kubernetes</li>
+                  <li class="list-group-item p-0">Creating a Deployment in Kubernetes using YAML Preview</li>
+                  <li class="list-group-item p-0">Creating a Service Object in Kubernetes</li>
+                  <li class="list-group-item p-0">Creating Headless service, Node Port, Load balancer Services</li>
+                  <li class="list-group-item p-0">Creating secrets and configmaps</li>
+                  <li class="list-group-item p-0">Working with Daemon Sets</li>
+                  <li class="list-group-item p-0">Deploying database application using statefulsets</li>
+                  <li class="list-group-item p-0">Working with Persistent Volumes, Persistent volume claims</li>                 
+                  <li class="list-group-item p-0">Using Rolling Updates in Kubernetes</li>
+                  <li class="list-group-item p-0">Blue Green Deployments in Kubernetes</li>
+                  <li class="list-group-item p-0">Canary Deployment in Kubernetes</li>
+                  <li class="list-group-item p-0">Helm Package manager for Kubernetes</li>
+                  <li class="list-group-item p-0">Deploying Kubernetes Dashboard with Helm</li>
+                  <li class="list-group-item p-0">Installing Prometheus and grafana on kubernetes cluster with Helm</li>
+                  <li class="list-group-item p-0">Monitoring Kubernetes cluster with Prometheus</li>
+                  <li class="list-group-item p-0">Deploying micro service application using statefulsets and Persistent volumes</li>
+                </ul>
+            </p>            
+          </div>
+        </div>
+      </div>
+    </div>      
+    </div> 
 </template>
 
 <script>
