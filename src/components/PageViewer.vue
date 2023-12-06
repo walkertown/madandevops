@@ -317,6 +317,73 @@
       </div>
     </div>      
     </div> 
+
+    
+    <!---->
+    <div class="container d-flex mt-4 p-4">
+      <div class="card mb-3" style="max-width:680px;">
+        <div class="row g-0">
+          <div class="col-md-2">
+            <img src="ansiblelogo.png" class="img-fluid rounded-start m-2" alt="...">
+          </div>
+          <div class="col-md-10">
+            <div class="card-body">
+              <h5 class="card-title">CONFIGURATION MANAGEMENT - ANSIBLE</h5>
+              <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">Introduction to Ansible</li>
+                  <li class="list-group-item p-0">Ansible Architecture</li>
+                  <li class="list-group-item p-0">Push configuration in Ansible</li>
+                  <li class="list-group-item p-0">Installation of Ansible</li>
+                  <li class="list-group-item p-0">Adhoc commands in Ansible</li>
+                  <li class="list-group-item p-0">Playbooks in Ansible</li>
+                  <li class="list-group-item p-0">Modules in Ansible</li>
+                  <li class="list-group-item p-0">Roles in Ansible</li>
+                  <li class="list-group-item p-0">Using Roles from Ansible Galaxy</li>
+                  <li class="list-group-item p-0">Creating our own Roles</li>
+                  <li class="list-group-item p-0">Deploying Docker container with Ansible</li>
+                  <li class="list-group-item p-0">Deploying Docker compose with Ansible</li>
+                  <li class="list-group-item p-0">Complete CI/CD on Jenkins with Ansible</li>
+                </ul>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card mb-3" style="max-width:680px;">
+      <div class="row g-0">
+        <div class="col-md-2">
+          <img src="terraformlogo.png" class="img-fluid rounded-start m-2" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">
+              INFRASTRUCTURE AS CODE WITH - TERRAFORM
+            </h5>
+            <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">Introduction to Terraform</li>
+                  <li class="list-group-item p-0">Install Terraform</li>
+                  <li class="list-group-item p-0">Terraform Providers</li>
+                  <li class="list-group-item p-0">Resources and Data Sources</li>
+                  <li class="list-group-item p-0">Change and destroy terraform resources</li>
+                  <li class="list-group-item p-0">Terraform state commands</li>
+                  <li class="list-group-item p-0">Output values in Terraform</li>
+                  <li class="list-group-item p-0">Variables in Terraform</li>
+                  <li class="list-group-item p-0">Environment variables in Terraform</li>
+                  <li class="list-group-item p-0">Version controlling Terraform files with git</li>
+                  <li class="list-group-item p-0">Automate Provisioning Ec2 instance on AWS with Terraform</li>
+                  <li class="list-group-item p-0">Modules in Terraform</li> 
+                  <li class="list-group-item p-0">Complete CI/CD on Jenkins with Terraform</li>
+                  <li class="list-group-item p-0">Automate Provisioning of EKS cluster on AWS with Terraform</li>
+                </ul>
+            </p>            
+          </div>
+        </div>
+      </div>
+    </div>      
+    </div> 
+
 </template>
 
 <script>
