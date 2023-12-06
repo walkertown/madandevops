@@ -384,6 +384,50 @@
     </div>      
     </div> 
 
+ <!---->
+ <div class="container d-flex mt-4 p-4">
+      <div class="card mb-3" style="max-width:680px;">
+        <div class="row g-0">
+          <div class="col-md-2">
+            <img src="prometheuslogo.png" class="img-fluid rounded-start m-2" alt="...">
+          </div>
+          <div class="col-md-10">
+            <div class="card-body">
+              <h5 class="card-title">PROMETHEUS</h5>
+              <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">What is Prometheus?</li>
+                  <li class="list-group-item p-0">Prometheus Architecture</li>
+                  <li class="list-group-item p-0">Prometheus Installation</li>
+                  <li class="list-group-item p-0">Monitoring container metrics with Prometheus</li>
+                  <li class="list-group-item p-0">Prometheus UI</li>
+                  <li class="list-group-item p-0">Alerting rules in Prometheus</li>
+                  <li class="list-group-item p-0">Monitoring Kubernetes cluster with Prometheus</li>
+                </ul>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card mb-3" style="max-width:680px;">
+      <div class="row g-0">
+        <div class="col-md-2">
+          <img src="grafanalogo.png" class="img-fluid rounded-start m-2" alt="...">
+        </div>
+        <div class="col-md-10">
+          <div class="card-body">
+            <h5 class="card-title">GRAFANA</h5>
+            <p class="card-text">
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item p-0">Grafana dashboard for Prometheus metrics</li>
+                  <li class="list-group-item p-0">Grafana dashboard for kubernetes clusters</li>
+                </ul>
+            </p>            
+          </div>
+        </div>
+      </div>
+    </div>      
+    </div> 
 </template>
 
 <script>
