@@ -13,7 +13,7 @@
         </span>
       </div>
       <div class="col p-3 bg-warning text-light">
-        <span class="badge rounded-pill bg-warning float-end" style="font-size: medium;">WhatsApp
+        <span class="badge rounded-pill bg-warning float-end" style="font-size: medium;">WhatsApp <br />
           +9999988888</span>
       </div>
     </div>
