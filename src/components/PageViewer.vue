@@ -1,11 +1,11 @@
 <template>
   <div class="container-fluid">
     <div class="row">
-      <div class="col p-3 bg-warning text-light">
+      <div class="col p-3 bg-warning text-light col-md-2">
         <span class="badge rounded-pill bg-warning" style="font-size: medium;">RAM IT <br /> DevOps
           Instructor</span>
       </div>
-      <div class="col p-3 bg-warning text-light rounded text-center">
+      <div class="col p-3 bg-warning text-light rounded text-center col-md-6">
         <span class="badge rounded-pill bg-warning" style="font-size: medium;">
           DevOps New Batch <br />
           December 9th (Thrusday) <br />
