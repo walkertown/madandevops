@@ -2,18 +2,18 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col p-3 bg-warning text-light">
-        <span class="badge rounded-pill bg-warning" style="font-size: larger;">RAM IT <br /> DevOps
+        <span class="badge rounded-pill bg-warning" style="font-size: medium;">RAM IT <br /> DevOps
           Instructor</span>
       </div>
       <div class="col p-3 bg-warning text-light rounded text-center">
-        <span class="badge rounded-pill bg-warning" style="font-size: larger;">
+        <span class="badge rounded-pill bg-warning" style="font-size: medium;">
           DevOps New Batch <br />
           December 9th (Thrusday) <br />
           7:00 PM to 8:30 PM IST
         </span>
       </div>
       <div class="col p-3 bg-warning text-light">
-        <span class="badge rounded-pill bg-warning float-end" style="font-size: larger;">WhatsApp
+        <span class="badge rounded-pill bg-warning float-end" style="font-size: medium;">WhatsApp
           +9999988888</span>
       </div>
     </div>
